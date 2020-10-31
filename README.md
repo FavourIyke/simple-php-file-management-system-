@@ -1,6 +1,6 @@
 # simple-php-file-management-system-
-This is a simple file management system written in PHP, public files are listed in the landing page
-It allows the creation of multiple users, only registered and logged in users will have access to the private directories.
+This is a simple file management system written in PHP. Public files are listed in the landing page.
+This management system allows the creation of multiple users where only registered and logged in users will have access to the private directories.
 
 # How to use
 - Download file from the master branch,
@@ -14,7 +14,7 @@ It allows the creation of multiple users, only registered and logged in users wi
 - user can create new directory
 - File upload, download and delete
 - File compression and unzipping
-- Ajac implementation
+- Ajax implementation
 
 # Future upgrades
 - Copy and move functions
