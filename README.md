@@ -6,7 +6,7 @@ This management system allows the creation of multiple users where only register
 - Download file from the master branch,
 - Unzip
 - copy it to your webspace
-- import the fms-db.sql file and connect to the database to manage user login/registration.
+- import the fms_db.sql file and connect to the database to manage user login/registration.
 - Navigate to the index.php and explore.
 
 # Features
